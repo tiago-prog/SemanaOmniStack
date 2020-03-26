@@ -1,5 +1,5 @@
-# SemanaOmniStack-8.0
-Uma aplicação similar ao Tinder mas para desenvolvedores(a) se encontrarem para trocar idéias e programarem junto(a).
+# :rocket SemanaOmniStack-8.0
+Uma aplicação similar ao Tinder mas para desenvolvedores(a) se encontrarem para trocar idéias e programarem juntos(as).
 
 # Como iniciar o projeto
  1. Abra o terminal em cada umas das pastas e digite:  `npm install`
